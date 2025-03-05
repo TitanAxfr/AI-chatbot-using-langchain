@@ -9,7 +9,7 @@ This project is a simple chatbot that finds relevant answers from stored knowled
 4. If no good match is found, it tells you that no relevant answers are available.  
 
 ## How to Run  
+Intitally create a database by running the create_database script.. put the required data in the data/books directory
 Run the script with a query:  
 ```sh
 python chatbot.py "Your query here"
-
